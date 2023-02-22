@@ -3,7 +3,7 @@ import pandas as pd
 #need to import file:
 tesla = pd.read_csv("D:\PYTHON\Data Analysis/TSLA.csv")
 tesla.head()
-  #Out[1]
+  #Out[1]    Please! Check out the tsla.Readme.md.
   
 tesla.index = tesla['Date']
 tesla.index.name = 'Date'
@@ -40,18 +40,7 @@ Name: 2022-12-05, dtype: float64 """
 tesla.loc['2021-12-08' : '2021-12-21']
   #Out[4]
 
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 
 
