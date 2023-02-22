@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 # Then, need to import the file (such as "csv" file) successfully. Be careful for typo!
 aapl = pd.read_csv("D:\PYTHON\Data Analysis/AAPL.CSV")
 appl
-  # Out[1] Please! Look at the readme.md file.
+  # Out[1] Please! Look at the Apple.Inc-README.md file.
 
 
 # you can able to set index like this:
