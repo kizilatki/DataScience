@@ -5,7 +5,7 @@ data visualization is essential and sensible as good as data explanations.
 
 from matplotlib import pyplot as plt
 
-tesla['Close'].plot()                 # you can select only one index and use "show" to view graph.
+tesla['Close'].plot()                 # you can select only one column and use "show" to view graph.
 plt.show()
   # Out[1]
   
